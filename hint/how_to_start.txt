@@ -1,0 +1,2 @@
+python.exe .\stock_watch.py -f dax.csv -t 250
+python.exe .\stock_watch.py -f pfolio.csv -t 300

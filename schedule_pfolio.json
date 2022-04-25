@@ -1,0 +1,7 @@
+{
+    "scriptName":       "stock_watch.py",
+    "inputCSV":         "pfolio.csv",
+    "timeIntervall":    "300",
+    "startTime":        "07:55",
+    "endTime":          "22:35"
+}
